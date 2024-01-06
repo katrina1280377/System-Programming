@@ -1,5 +1,5 @@
 // Copyright 2023 <Copyright Owner>
-// Name: Wei-Mei(Katrina) Hsiung, Email: whsiung@uw.edu#include "SocketUtil.h"
+// Name: Wei-Mei(Katrina) Hsiung, Email: whsiung@uw.edu
 #include <unistd.h>
 #include <string.h>
 #include <iostream>
